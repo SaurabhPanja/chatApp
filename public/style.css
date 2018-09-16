@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  padding: 0;
+  width: 30em;
+  margin: auto;
+}
+ul li{
+  list-style: none;
+}
+.form-group{
+
+  margin-left: 1.5em;
+  width:70%;
+  display: inline-block;
+}
+
+.btn{
+  display: inline-block;
+  width: 10%;
+  border-radius: 10%;
+}
